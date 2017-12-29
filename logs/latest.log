@@ -1,0 +1,289 @@
+[00:21:10] [User Authenticator #5/INFO]: UUID of player SpockPol is 305fbbcb-f408-406d-bb96-890e47ebf514
+[00:21:10] [Server thread/INFO]: SpockPol lost connection: You logged in from another location
+[00:21:10] [Server thread/INFO]: SpockPol left the game
+[00:21:10] [Server thread/INFO]: SpockPol[/87.231.134.25:41571] logged in with entity id 36690 at ([world]-120.02596944235441, 66.0, 208.59631972514222)
+[00:56:32] [Server thread/INFO]: SpockPol lost connection: Timed out
+[00:56:32] [Server thread/INFO]: SpockPol left the game
+[00:56:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@c3662a9[id=<null>,name=SpockPol,properties={},legacy=false] (/87.231.134.25:41615) lost connection: Disconnected
+[00:56:46] [User Authenticator #6/INFO]: UUID of player SpockPol is 305fbbcb-f408-406d-bb96-890e47ebf514
+[00:56:46] [Server thread/INFO]: SpockPol[/87.231.134.25:41616] logged in with entity id 43286 at ([world]-108.60736628802321, 65.0, 205.21924115434746)
+[00:58:40] [Server thread/INFO]: SpockPol was shot by Skeleton
+[01:12:11] [Server thread/INFO]: SpockPol lost connection: Timed out
+[01:12:11] [Server thread/INFO]: SpockPol left the game
+[01:12:15] [User Authenticator #7/INFO]: UUID of player SpockPol is 305fbbcb-f408-406d-bb96-890e47ebf514
+[01:12:15] [Server thread/INFO]: SpockPol[/87.231.134.25:41647] logged in with entity id 46726 at ([world]-91.40250110238468, 63.0, 238.08134470278958)
+[01:12:47] [User Authenticator #8/INFO]: UUID of player SpockPol is 305fbbcb-f408-406d-bb96-890e47ebf514
+[01:12:47] [Server thread/INFO]: SpockPol lost connection: You logged in from another location
+[01:12:47] [Server thread/INFO]: SpockPol left the game
+[01:12:48] [Server thread/INFO]: SpockPol[/87.231.134.25:41650] logged in with entity id 46760 at ([world]-115.26277902797675, 63.0, 237.33831029457576)
+[01:12:48] [Server thread/WARN]: handleDisconnection() called twice
+[01:16:15] [User Authenticator #9/INFO]: UUID of player SpockPol is 305fbbcb-f408-406d-bb96-890e47ebf514
+[01:16:15] [Server thread/INFO]: SpockPol lost connection: You logged in from another location
+[01:16:15] [Server thread/INFO]: SpockPol left the game
+[01:16:15] [Server thread/INFO]: SpockPol[/87.231.134.25:41654] logged in with entity id 47160 at ([world]-100.91454782354201, 63.0, 203.50376684962387)
+[01:22:48] [Server thread/WARN]: SpockPol moved too quickly! -4.051548888905899,0.0,9.32722923913127
+[01:28:24] [User Authenticator #10/INFO]: UUID of player SpockPol is 305fbbcb-f408-406d-bb96-890e47ebf514
+[01:28:24] [Server thread/INFO]: SpockPol lost connection: You logged in from another location
+[01:28:24] [Server thread/INFO]: SpockPol left the game
+[01:28:24] [Server thread/INFO]: SpockPol[/87.231.134.25:41671] logged in with entity id 48912 at ([world]-111.36505801674477, 63.0, 200.68438273388543)
+[01:28:24] [Server thread/WARN]: handleDisconnection() called twice
+[01:37:21] [User Authenticator #11/INFO]: UUID of player SpockPol is 305fbbcb-f408-406d-bb96-890e47ebf514
+[01:37:21] [Server thread/INFO]: SpockPol lost connection: You logged in from another location
+[01:37:21] [Server thread/INFO]: SpockPol left the game
+[01:37:21] [Server thread/INFO]: SpockPol[/87.231.134.25:41683] logged in with entity id 50539 at ([world]-105.42946219172563, 63.0, 196.17245788613712)
+[01:38:43] [Server thread/WARN]: SpockPol moved too quickly! 0.215057735786516,-0.14168517272452164,14.243589757599466
+[01:52:07] [Server thread/WARN]: SpockPol moved too quickly! -10.549395807612399,4.0,7.043977566980374
+[01:59:33] [Server thread/INFO]: SpockPol has made the advancement [Sweet dreams]
+[01:59:40] [Async Chat Thread - #0/INFO]: <SpockPol> gay[m
+[01:59:41] [Async Chat Thread - #0/INFO]: <SpockPol> dzqdqz[m
+[01:59:42] [Async Chat Thread - #0/INFO]: <SpockPol> qzd[m
+[01:59:42] [Async Chat Thread - #1/INFO]: <SpockPol> qz[m
+[01:59:42] [Async Chat Thread - #2/INFO]: <SpockPol> d[m
+[01:59:42] [Async Chat Thread - #2/INFO]: <SpockPol> qzd[m
+[01:59:43] [Async Chat Thread - #2/INFO]: <SpockPol> q[m
+[01:59:43] [Async Chat Thread - #2/INFO]: <SpockPol> zd[m
+[01:59:43] [Async Chat Thread - #0/INFO]: <SpockPol> d[m
+[01:59:43] [Async Chat Thread - #1/INFO]: <SpockPol> qz[m
+[01:59:44] [Async Chat Thread - #1/INFO]: <SpockPol> zq[m
+[01:59:44] [Async Chat Thread - #2/INFO]: <SpockPol> d[m
+[01:59:44] [Async Chat Thread - #0/INFO]: <SpockPol> qzd[m
+[01:59:44] [Async Chat Thread - #0/INFO]: <SpockPol> zq[m
+[01:59:44] [Async Chat Thread - #0/INFO]: <SpockPol> d[m
+[01:59:45] [Async Chat Thread - #2/INFO]: <SpockPol> zq[m
+[01:59:45] [Async Chat Thread - #0/INFO]: <SpockPol> qzd[m
+[01:59:45] [Async Chat Thread - #1/INFO]: <SpockPol> d[m
+[01:59:45] [Async Chat Thread - #3/INFO]: <SpockPol> qzd[m
+[01:59:45] [Async Chat Thread - #4/INFO]: <SpockPol> qz[m
+[01:59:45] [Async Chat Thread - #4/INFO]: <SpockPol> dqz[m
+[01:59:45] [Async Chat Thread - #4/INFO]: <SpockPol> d[m
+[01:59:46] [Async Chat Thread - #0/INFO]: <SpockPol> zd[m
+[01:59:46] [Async Chat Thread - #4/INFO]: <SpockPol> zq[m
+[01:59:46] [Async Chat Thread - #3/INFO]: <SpockPol> dq[m
+[01:59:46] [Async Chat Thread - #3/INFO]: <SpockPol> qz[m
+[01:59:48] [Async Chat Thread - #2/INFO]: <SpockPol> qz[m
+[01:59:48] [Async Chat Thread - #4/INFO]: <SpockPol> qz[m
+[01:59:48] [Async Chat Thread - #0/INFO]: <SpockPol> qzd[m
+[01:59:48] [Async Chat Thread - #5/INFO]: <SpockPol> dq[m
+[01:59:48] [Async Chat Thread - #7/INFO]: <SpockPol> dqz[m
+[01:59:48] [Async Chat Thread - #1/INFO]: <SpockPol> d[m
+[01:59:48] [Async Chat Thread - #3/INFO]: <SpockPol> dq[m
+[01:59:48] [Async Chat Thread - #0/INFO]: <SpockPol> dqz[m
+[01:59:48] [Async Chat Thread - #6/INFO]: <SpockPol> z[m
+[01:59:48] [Async Chat Thread - #9/INFO]: <SpockPol> q[m
+[01:59:48] [Async Chat Thread - #8/INFO]: <SpockPol> d[m
+[01:59:48] [Async Chat Thread - #8/INFO]: <SpockPol> q[m
+[01:59:48] [Async Chat Thread - #8/INFO]: <SpockPol> dq[m
+[02:00:16] [Async Chat Thread - #8/INFO]: <SpockPol> tous au lit les zouzou[m
+[02:00:27] [Async Chat Thread - #8/INFO]: <SpockPol> alllé hop hop hop[m
+[02:00:29] [Async Chat Thread - #8/INFO]: <SpockPol> pas de chichi[m
+[02:16:49] [Server thread/WARN]: SpockPol moved too quickly! -3.8832982762970403,0.023088109101550458,-12.747466740897352
+[02:18:10] [Server thread/INFO]: SpockPol lost connection: Timed out
+[02:18:10] [Server thread/INFO]: SpockPol left the game
+[02:18:13] [User Authenticator #12/INFO]: UUID of player SpockPol is 305fbbcb-f408-406d-bb96-890e47ebf514
+[02:18:13] [Server thread/INFO]: SpockPol[/87.231.134.25:41785] logged in with entity id 63319 at ([world]-104.08885834471842, 63.0, 196.56339235580234)
+[02:20:24] [Server thread/WARN]: SpockPol moved too quickly! -11.317104605540223,0.0,9.376072604831819
+[02:22:24] [User Authenticator #13/INFO]: UUID of player SpockPol is 305fbbcb-f408-406d-bb96-890e47ebf514
+[02:22:24] [Server thread/INFO]: SpockPol lost connection: You logged in from another location
+[02:22:24] [Server thread/INFO]: SpockPol left the game
+[02:22:24] [Server thread/INFO]: SpockPol[/87.231.134.25:41792] logged in with entity id 63802 at ([world]-106.0495371519894, 63.0, 200.80212709573703)
+[02:23:51] [User Authenticator #14/INFO]: UUID of player SpockPol is 305fbbcb-f408-406d-bb96-890e47ebf514
+[02:23:51] [Server thread/INFO]: SpockPol lost connection: You logged in from another location
+[02:23:51] [Server thread/INFO]: SpockPol left the game
+[02:23:51] [Server thread/INFO]: SpockPol[/87.231.134.25:41796] logged in with entity id 63917 at ([world]-101.79525325796101, 63.0, 203.19656758133735)
+[02:23:51] [Server thread/WARN]: handleDisconnection() called twice
+[02:27:50] [User Authenticator #15/INFO]: UUID of player SpockPol is 305fbbcb-f408-406d-bb96-890e47ebf514
+[02:27:50] [Server thread/INFO]: SpockPol lost connection: You logged in from another location
+[02:27:50] [Server thread/INFO]: SpockPol left the game
+[02:27:50] [Server thread/INFO]: SpockPol[/87.231.134.25:41799] logged in with entity id 64260 at ([world]-102.52174797110253, 63.0, 196.86245320923558)
+[02:27:50] [Server thread/WARN]: handleDisconnection() called twice
+[02:36:13] [User Authenticator #16/INFO]: UUID of player SpockPol is 305fbbcb-f408-406d-bb96-890e47ebf514
+[02:36:13] [Server thread/INFO]: SpockPol lost connection: You logged in from another location
+[02:36:13] [Server thread/INFO]: SpockPol left the game
+[02:36:13] [Server thread/INFO]: SpockPol[/87.231.134.25:41961] logged in with entity id 65100 at ([world]-103.07499998807907, 63.0, 203.28686083890165)
+[02:36:13] [Server thread/WARN]: handleDisconnection() called twice
+[02:47:13] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:47:13] [Server thread/INFO]: Traxmania lost connection: Flying is not enabled on this server
+[02:47:13] [Server thread/INFO]: Traxmania left the game
+[02:47:13] [Server thread/WARN]: handleDisconnection() called twice
+[02:47:22] [User Authenticator #17/INFO]: UUID of player Traxmania is 94aaa575-af8a-4113-92f2-28406dc22b8a
+[02:47:22] [Server thread/INFO]: Traxmania[/77.150.151.108:57161] logged in with entity id 67765 at ([world]-94.03248634321389, 63.169490234890354, 207.5905801134144)
+[02:47:40] [Server thread/INFO]: Traxmania issued server command: /gamedmode 1
+[02:47:51] [Server thread/INFO]: Traxmania issued server command: /gamemod 1
+[02:47:55] [Server thread/INFO]: Traxmania issued server command: /help
+[02:48:36] [Server thread/INFO]: Traxmania issued server command: /gamemode 1
+[02:48:36] [Server thread/INFO]: [Traxmania: Set own game mode to Creative Mode]
+[02:49:52] [Server thread/INFO]: Traxmania issued server command: /gamemode 0
+[02:49:52] [Server thread/INFO]: [Traxmania: Set own game mode to Survival Mode]
+[02:50:37] [Server thread/WARN]: SpockPol moved wrongly!
+[02:54:52] [User Authenticator #18/INFO]: UUID of player SpockPol is 305fbbcb-f408-406d-bb96-890e47ebf514
+[02:54:52] [Server thread/INFO]: SpockPol lost connection: You logged in from another location
+[02:54:52] [Server thread/INFO]: SpockPol left the game
+[02:54:52] [Server thread/INFO]: SpockPol[/87.231.134.25:41988] logged in with entity id 70716 at ([world]-80.23354603040734, 63.0, 206.2488401157817)
+[02:54:52] [Server thread/WARN]: handleDisconnection() called twice
+[02:55:40] [User Authenticator #19/INFO]: UUID of player SpockPol is 305fbbcb-f408-406d-bb96-890e47ebf514
+[02:55:40] [Server thread/INFO]: SpockPol lost connection: You logged in from another location
+[02:55:40] [Server thread/INFO]: SpockPol left the game
+[02:55:40] [Server thread/INFO]: SpockPol[/87.231.134.25:41991] logged in with entity id 70876 at ([world]-89.09204258960438, 63.0, 219.5500862305567)
+[02:56:17] [User Authenticator #20/INFO]: UUID of player SpockPol is 305fbbcb-f408-406d-bb96-890e47ebf514
+[02:56:17] [Server thread/INFO]: SpockPol lost connection: You logged in from another location
+[02:56:17] [Server thread/INFO]: SpockPol left the game
+[02:56:17] [Server thread/INFO]: SpockPol[/87.231.134.25:41994] logged in with entity id 71006 at ([world]-89.30000001192093, 62.00479999021291, 217.66098857778846)
+[02:59:26] [Server thread/WARN]: Traxmania moved too quickly! 1.4948570765923819,-1.1767592750642422,-11.413172256704627
+[02:59:31] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:31] [Server thread/INFO]: Traxmania lost connection: Flying is not enabled on this server
+[02:59:31] [Server thread/INFO]: Traxmania left the game
+[02:59:31] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:32] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:33] [Server thread/WARN]: Traxmania was kicked for floating too long!
+[02:59:42] [User Authenticator #21/INFO]: UUID of player Traxmania is 94aaa575-af8a-4113-92f2-28406dc22b8a
+[02:59:42] [Server thread/INFO]: Traxmania[/77.150.151.108:57261] logged in with entity id 71373 at ([world]-89.1018074811898, 63.78947876269956, 216.12951589544286)
+[03:01:15] [Server thread/WARN]: Tonnefer moved too quickly! 1.2712204440195478,0.0,-12.665898185145068
+[03:01:21] [Server thread/INFO]: Tonnefer was slain by Zombie
+[03:02:53] [Server thread/WARN]: SpockPol moved too quickly! 18.11580394529912,0.0,2.13093722114192
+[03:03:23] [Server thread/INFO]: SpockPol lost connection: Timed out
+[03:03:23] [Server thread/INFO]: SpockPol left the game
+[03:03:27] [User Authenticator #22/INFO]: UUID of player SpockPol is 305fbbcb-f408-406d-bb96-890e47ebf514
+[03:03:27] [Server thread/INFO]: SpockPol[/87.231.134.25:42018] logged in with entity id 72336 at ([world]-97.71423782809207, 63.18947261797401, 209.30092179826576)
+[03:03:33] [Server thread/WARN]: SpockPol moved too quickly! -10.004412777768636,0.0,-1.2149325400643818
+[03:03:44] [Server thread/INFO]: SpockPol issued server command: /save
+[03:03:50] [Server thread/INFO]: SpockPol lost connection: Disconnected
+[03:03:50] [Server thread/INFO]: SpockPol left the game
+[03:03:55] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[03:03:57] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[03:04:02] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[03:04:06] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[03:04:06] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[03:04:06] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
+[03:04:06] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[03:04:06] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/blockdata: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/entitydata: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/function: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/minecraft:tell: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/replaceitem: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/restart: [0;37;1mRestarts the server[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/spigot: [0;37;1mSpigot related commands[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/stats: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/testfor: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/testforblock: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/testforblocks: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mManages Spigot Timings data to see performance of the server.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/toggledownfall: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/tps: [0;37;1mGets the current ticks per second for the server[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[03:04:06] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[03:04:09] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[03:04:22] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[03:04:25] [Server thread/INFO]: Saving...
+[03:04:25] [Server thread/INFO]: Saved the world
+[03:07:45] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[03:07:48] [Server thread/INFO]: Saving...
+[03:07:48] [Server thread/INFO]: Saved the world
+[03:25:13] [Server thread/INFO]: Saving...
+[03:25:14] [Server thread/INFO]: Saved the world
+[03:25:18] [Server thread/INFO]: Stopping the server
+[03:25:18] [Server thread/INFO]: Stopping server
+[03:25:18] [Server thread/INFO]: Saving players
+[03:25:18] [Server thread/INFO]: Traxmania lost connection: Server closed
+[03:25:18] [Server thread/INFO]: Traxmania left the game
+[03:25:18] [Server thread/INFO]: Tonnefer lost connection: Server closed
+[03:25:18] [Server thread/INFO]: Tonnefer left the game
+[03:25:18] [Server thread/INFO]: Saving worlds
+[03:25:18] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[03:25:18] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[03:25:18] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end

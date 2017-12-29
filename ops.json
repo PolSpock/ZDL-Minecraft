@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "94aaa575-af8a-4113-92f2-28406dc22b8a",
+    "name": "Traxmania",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "305fbbcb-f408-406d-bb96-890e47ebf514",
+    "name": "SpockPol",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9af635f6-b37d-4c09-8adc-daadfa85e3cc",
+    "name": "Tonnefer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ee3ef37d-3137-4498-ab5c-d627e930e06c",
+    "name": "jeje1012",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

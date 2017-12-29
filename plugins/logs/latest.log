@@ -1,0 +1,20 @@
+[17:44:25] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[17:44:25] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[17:44:25] [Server thread/INFO]: Loading properties
+[17:44:25] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Descripteur non valide
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_66]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_66]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_66]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_66]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_66]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_66]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_66]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_66]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_66]
+	at nz$2.run(SourceFile:100) [minecraft_server.1.12.2.jar:?]
+[17:44:25] [Server thread/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+[17:44:25] [Server thread/INFO]: Stopping server
+[17:44:25] [Server Shutdown Thread/INFO]: Stopping server

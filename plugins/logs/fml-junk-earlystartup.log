@@ -1,0 +1,130 @@
+[17:41:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:41:57] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:41:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:42:04] [Server thread/INFO] [FML]: MinecraftForge v14.23.1.2580 Initialized
+[17:42:04] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[17:42:04] [Server thread/INFO] [FML]: Replaced 1036 ore ingredients
+[17:42:04] [Server thread/DEBUG] [FML]: File C:\Users\Jerem\Desktop\Serveur Minecraft\plugins\config\injectedDependencies.json not found. No dependencies injected
+[17:42:04] [Server thread/DEBUG] [FML]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[17:42:04] [Server thread/DEBUG] [FML]: Attempting to load mods contained in the minecraft jar file and associated classes
+[17:42:04] [Server thread/DEBUG] [FML]: Minecraft is a file at C:\Users\Jerem\Desktop\Serveur Minecraft\plugins\forge-1.12.2-14.23.1.2580-universal.jar, loading
+[17:42:04] [Server thread/DEBUG] [FML]: Minecraft jar mods loaded successfully
+[17:42:04] [Server thread/INFO] [FML]: Found 0 mods from the command line. Injecting into mod discoverer
+[17:42:04] [Server thread/INFO] [FML]: Searching C:\Users\Jerem\Desktop\Serveur Minecraft\plugins\mods for mods
+[17:42:04] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file BetterPvP_1.14.4_Forge_1.12.jar
+[17:42:04] [Server thread/DEBUG] [FML]: Ignoring unknown file mod_list.json in mods directory
+[17:42:04] [Server thread/DEBUG] [FML]: Examining file forge-1.12.2-14.23.1.2580-universal.jar for potential mods
+[17:42:04] [Server thread/DEBUG] [FML]: The mod container forge-1.12.2-14.23.1.2580-universal.jar appears to be missing an mcmod.info file
+[17:42:04] [Server thread/DEBUG] [FML]: Examining file BetterPvP_1.14.4_Forge_1.12.jar for potential mods
+[17:42:04] [Server thread/WARN] [FML]: Zip file BetterPvP_1.14.4_Forge_1.12.jar failed to read properly, it will be ignored
+java.util.zip.ZipException: error in opening zip file
+	at java.util.zip.ZipFile.open(Native Method) ~[?:1.8.0_66]
+	at java.util.zip.ZipFile.<init>(Unknown Source) ~[?:1.8.0_66]
+	at java.util.zip.ZipFile.<init>(Unknown Source) ~[?:1.8.0_66]
+	at java.util.jar.JarFile.<init>(Unknown Source) ~[?:1.8.0_66]
+	at java.util.jar.JarFile.<init>(Unknown Source) ~[?:1.8.0_66]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:49) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:138) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:401) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:541) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:97) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:331) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_66]
+[17:42:05] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
+[17:42:05] [Server thread/TRACE] [FML]: Received a system property request ''
+[17:42:05] [Server thread/TRACE] [FML]: System property request managing the state of 0 mods
+[17:42:05] [Server thread/DEBUG] [FML]: After merging, found state information for 0 mods
+[17:42:05] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[17:42:05] [Server thread/TRACE] [FML]: Verifying mod requirements are satisfied
+[17:42:05] [Server thread/TRACE] [FML]: All mod requirements are satisfied
+[17:42:05] [Server thread/TRACE] [FML]: Sorting mods into an ordered list
+[17:42:05] [Server thread/TRACE] [FML]: Mod sorting completed successfully
+[17:42:05] [Server thread/DEBUG] [FML]: Mod sorting data
+[17:42:05] [Server thread/DEBUG] [FML]: No user mods found to sort
+[17:42:05] [Server thread/INFO] [FML]: FML has found a non-mod file BetterPvP_1.14.4_Forge_1.12.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:42:05] [Server thread/DEBUG] [FML]: Loading @Config anotation data
+[17:42:05] [Server thread/TRACE] [minecraft]: Sending event FMLConstructionEvent to mod minecraft
+[17:42:05] [Server thread/TRACE] [minecraft]: Sent event FMLConstructionEvent to mod minecraft
+[17:42:05] [Server thread/DEBUG] [FML]: Bar Step: Construction - Minecraft took 0,528s
+[17:42:05] [Server thread/TRACE] [mcp]: Sending event FMLConstructionEvent to mod mcp
+[17:42:05] [Server thread/TRACE] [mcp]: Sent event FMLConstructionEvent to mod mcp
+[17:42:05] [Server thread/DEBUG] [FML]: Bar Step: Construction - Minecraft Coder Pack took 0,001s
+[17:42:05] [Server thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod FML
+[17:42:05] [Server thread/TRACE] [FML]: Mod FML is using network checker : Invoking method checkModLists
+[17:42:05] [Server thread/TRACE] [FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[17:42:05] [Server thread/TRACE] [FML]: The mod FML accepts its own version (8.0.99.99)
+[17:42:05] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[17:42:05] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[17:42:06] [Server thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod FML
+[17:42:06] [Server thread/DEBUG] [FML]: Bar Step: Construction - Forge Mod Loader took 0,507s
+[17:42:06] [Server thread/TRACE] [forge]: Sending event FMLConstructionEvent to mod forge
+[17:42:06] [Server thread/DEBUG] [forge]: Preloading CrashReport Classes
+[17:42:06] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable
+[17:42:06] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Alignment
+[17:42:06] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Column
+[17:42:06] [Server thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Row
+[17:42:06] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/client/SplashProgress$1
+[17:42:06] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/FMLCommonHandler$1
+[17:42:06] [Server thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/Loader$1
+[17:42:06] [Server thread/TRACE] [FML]: Mod forge is using network checker : No network checking performed
+[17:42:06] [Server thread/TRACE] [FML]: Testing mod forge to verify it accepts its own version in a remote connection
+[17:42:06] [Server thread/TRACE] [FML]: The mod forge accepts its own version (14.23.1.2580)
+[17:42:06] [Server thread/DEBUG] [FML]: Attempting to inject @Config classes into forge for type INSTANCE
+[17:42:06] [Server thread/TRACE] [forge]: Sent event FMLConstructionEvent to mod forge
+[17:42:06] [Server thread/DEBUG] [FML]: Bar Step: Construction - Minecraft Forge took 0,053s
+[17:42:06] [Server thread/DEBUG] [FML]: Bar Finished: Construction took 1,090s
+[17:42:06] [Server thread/DEBUG] [FML]: Mod signature data
+[17:42:06] [Server thread/DEBUG] [FML]:  	Valid Signatures:
+[17:42:06] [Server thread/DEBUG] [FML]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) FML	(Forge Mod Loader	8.0.99.99)	forge-1.12.2-14.23.1.2580-universal.jar
+[17:42:06] [Server thread/DEBUG] [FML]: 		(e3c3d50c7c986df74c645c0ac54639741c90a557) forge	(Minecraft Forge	14.23.1.2580)	forge-1.12.2-14.23.1.2580-universal.jar
+[17:42:06] [Server thread/DEBUG] [FML]:  	Missing Signatures:
+[17:42:06] [Server thread/DEBUG] [FML]: 		minecraft	(Minecraft	1.12.2)	minecraft.jar
+[17:42:06] [Server thread/DEBUG] [FML]: 		mcp	(Minecraft Coder Pack	9.42)	minecraft.jar
+[17:42:06] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[17:42:06] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[17:42:06] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[17:42:06] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[17:42:06] [Server thread/TRACE] [minecraft]: Sending event FMLPreInitializationEvent to mod minecraft
+[17:42:06] [Server thread/TRACE] [minecraft]: Sent event FMLPreInitializationEvent to mod minecraft
+[17:42:06] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft took 0,000s
+[17:42:06] [Server thread/TRACE] [mcp]: Sending event FMLPreInitializationEvent to mod mcp
+[17:42:06] [Server thread/TRACE] [mcp]: Sent event FMLPreInitializationEvent to mod mcp
+[17:42:06] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft Coder Pack took 0,000s
+[17:42:06] [Server thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod FML
+[17:42:06] [Server thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod FML
+[17:42:06] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Forge Mod Loader took 0,000s
+[17:42:06] [Server thread/TRACE] [forge]: Sending event FMLPreInitializationEvent to mod forge
+[17:42:06] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[17:42:06] [Server thread/TRACE] [forge]: Sent event FMLPreInitializationEvent to mod forge
+[17:42:06] [Server thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft Forge took 0,063s
+[17:42:06] [Server thread/DEBUG] [FML]: Bar Finished: PreInitialization took 0,064s
+[17:42:06] [Forge Version Check/INFO] [ForgeVersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[17:42:06] [Server thread/INFO] [FML]: Applying holder lookups
+[17:42:06] [Server thread/INFO] [FML]: Holder lookups applied
+[17:42:06] [Server thread/INFO] [FML]: Applying holder lookups
+[17:42:06] [Server thread/INFO] [FML]: Holder lookups applied
+[17:42:06] [Server thread/INFO] [FML]: Applying holder lookups
+[17:42:06] [Server thread/INFO] [FML]: Holder lookups applied
+[17:42:06] [Server thread/INFO] [FML]: Applying holder lookups
+[17:42:06] [Server thread/INFO] [FML]: Holder lookups applied
+[17:42:06] [Server thread/INFO] [FML]: Injecting itemstacks
+[17:42:06] [Server thread/INFO] [FML]: Itemstack injection complete
+[17:42:06] [Server thread/WARN] [FML]: Can't revert to frozen GameData state without freezing first.
+[17:42:06] [Server thread/TRACE] [minecraft]: Sending event FMLServerStoppedEvent to mod minecraft
+[17:42:06] [Server thread/TRACE] [minecraft]: Sent event FMLServerStoppedEvent to mod minecraft
+[17:42:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0,000s
+[17:42:06] [Server thread/TRACE] [mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[17:42:06] [Server thread/TRACE] [mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[17:42:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0,001s
+[17:42:06] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
+[17:42:06] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
+[17:42:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0,001s
+[17:42:06] [Server thread/TRACE] [forge]: Sending event FMLServerStoppedEvent to mod forge
+[17:42:06] [Server thread/TRACE] [forge]: Sent event FMLServerStoppedEvent to mod forge
+[17:42:06] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0,000s
+[17:42:06] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0,002s
+[17:42:06] [Server thread/INFO] [FML]: The state engine was in incorrect state POSTINITIALIZATION and forced into state SERVER_STOPPED. Errors may have been discarded.
