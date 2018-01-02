@@ -1,14 +1,14 @@
-[18:10:15] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[18:10:15] [Server thread/INFO]: Loading properties
-[18:10:15] [Server thread/INFO]: Default game type: SURVIVAL
-[18:10:15] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-3d850ec-809c399 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
-[18:10:15] [Server thread/INFO]: Debug logging is disabled
-[18:10:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:10:15] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:10:15] [Server thread/INFO]: Generating keypair
-[18:10:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:10:16] [Server thread/INFO]: Using default channel type
-[18:10:16] [Server thread/ERROR]: Could not load 'plugins\forge-1.12.2-14.23.1.2580-universal.jar' in folder 'plugins'
+[19:01:47] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[19:01:47] [Server thread/INFO]: Loading properties
+[19:01:47] [Server thread/INFO]: Default game type: SURVIVAL
+[19:01:47] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-3d850ec-809c399 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[19:01:47] [Server thread/INFO]: Debug logging is disabled
+[19:01:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:01:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:01:47] [Server thread/INFO]: Generating keypair
+[19:01:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:01:48] [Server thread/INFO]: Using default channel type
+[19:01:48] [Server thread/ERROR]: Could not load 'plugins\forge-1.12.2-14.23.1.2580-universal.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
 	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:152) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:133) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
@@ -18,7 +18,7 @@ org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
 Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
 	... 6 more
-[18:10:16] [Server thread/ERROR]: Could not load 'plugins\minecraft_server.1.12.2.jar' in folder 'plugins'
+[19:01:48] [Server thread/ERROR]: Could not load 'plugins\minecraft_server.1.12.2.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
 	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:152) ~[spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:133) [spigot-1.12.2.jar:git-Spigot-3d850ec-809c399]
@@ -28,133 +28,137 @@ org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
 Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
 	... 6 more
-[18:10:16] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[18:10:16] [Server thread/INFO]: Preparing level "world"
-[18:10:16] [Server thread/INFO]: -------- World Settings For [world] --------
-[18:10:16] [Server thread/INFO]: View Distance: 10
-[18:10:16] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:10:16] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:10:16] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:10:16] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:10:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:10:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:10:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:10:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[18:10:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:10:16] [Server thread/INFO]: Structure Info Saving: true
-[18:10:16] [Server thread/INFO]: Max TNT Explosions: 100
-[18:10:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[18:10:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:10:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:10:16] [Server thread/INFO]: Random Lighting Updates: false
-[18:10:16] [Server thread/INFO]: Mob Spawn Range: 4
-[18:10:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Vine Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[18:10:16] [Server thread/INFO]: View Distance: 10
-[18:10:16] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:10:16] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:10:16] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:10:16] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:10:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:10:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:10:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:10:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[18:10:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:10:16] [Server thread/INFO]: Structure Info Saving: true
-[18:10:16] [Server thread/INFO]: Max TNT Explosions: 100
-[18:10:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[18:10:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:10:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:10:16] [Server thread/INFO]: Random Lighting Updates: false
-[18:10:16] [Server thread/INFO]: Mob Spawn Range: 4
-[18:10:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Vine Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[18:10:16] [Server thread/INFO]: View Distance: 10
-[18:10:16] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[18:10:16] [Server thread/INFO]: Experience Merge Radius: 3.0
-[18:10:16] [Server thread/INFO]: Item Merge Radius: 2.5
-[18:10:16] [Server thread/INFO]: Item Despawn Rate: 6000
-[18:10:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18:10:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[18:10:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[18:10:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[18:10:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[18:10:16] [Server thread/INFO]: Structure Info Saving: true
-[18:10:16] [Server thread/INFO]: Max TNT Explosions: 100
-[18:10:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[18:10:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18:10:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[18:10:16] [Server thread/INFO]: Random Lighting Updates: false
-[18:10:16] [Server thread/INFO]: Mob Spawn Range: 4
-[18:10:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Cane Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Melon Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Vine Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[18:10:16] [Server thread/INFO]: Preparing start region for level 0 (Seed: -2102299034037717084)
-[18:10:17] [Server thread/INFO]: Preparing spawn area: 48%
-[18:10:18] [Server thread/INFO]: Preparing start region for level 1 (Seed: -2102299034037717084)
-[18:10:18] [Server thread/INFO]: Preparing start region for level 2 (Seed: -2102299034037717084)
-[18:10:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:10:19] [Server thread/INFO]: Done (2,793s)! For help, type "help" or "?"
-[18:10:24] [User Authenticator #1/INFO]: UUID of player Tonnefer is 9af635f6-b37d-4c09-8adc-daadfa85e3cc
-[18:10:24] [Server thread/INFO]: Tonnefer[/80.215.114.208:32161] logged in with entity id 629 at ([world]-87.6714688494742, 64.16610926093821, 198.93870566923812)
-[18:10:26] [User Authenticator #2/INFO]: UUID of player Traxmania is 94aaa575-af8a-4113-92f2-28406dc22b8a
-[18:10:27] [Server thread/INFO]: Traxmania[/127.0.0.1:58456] logged in with entity id 651 at ([world]-98.74423091000565, 63.0, 212.43649378179532)
-[18:11:39] [Server thread/INFO]: Tonnefer lost connection: Timed out
-[18:11:40] [Server thread/INFO]: Tonnefer left the game
-[18:11:51] [User Authenticator #3/INFO]: UUID of player Tonnefer is 9af635f6-b37d-4c09-8adc-daadfa85e3cc
-[18:11:51] [Server thread/INFO]: Tonnefer[/80.215.114.208:32166] logged in with entity id 888 at ([world]-86.8337657516577, 63.0, 198.95275281813406)
-[18:13:06] [Server thread/INFO]: Tonnefer lost connection: Timed out
-[18:13:06] [Server thread/INFO]: Tonnefer left the game
-[18:13:44] [User Authenticator #4/INFO]: UUID of player Tonnefer is 9af635f6-b37d-4c09-8adc-daadfa85e3cc
-[18:13:44] [Server thread/INFO]: Tonnefer[/80.215.114.208:32169] logged in with entity id 1177 at ([world]-88.35666526763248, 63.0, 189.66129194878027)
-[18:15:24] [Server thread/INFO]: Tonnefer lost connection: Timed out
-[18:15:24] [Server thread/INFO]: Tonnefer left the game
-[18:15:30] [User Authenticator #5/INFO]: UUID of player Tonnefer is 9af635f6-b37d-4c09-8adc-daadfa85e3cc
-[18:15:30] [Server thread/INFO]: Tonnefer[/80.215.114.208:32175] logged in with entity id 1614 at ([world]-101.11057062853678, 63.0, 209.7335754724952)
-[18:16:05] [Server thread/INFO]: Tonnefer lost connection: Disconnected
-[18:16:05] [Server thread/INFO]: Tonnefer left the game
-[18:16:10] [User Authenticator #6/INFO]: UUID of player Tonnefer is 9af635f6-b37d-4c09-8adc-daadfa85e3cc
-[18:16:10] [Server thread/INFO]: Tonnefer[/80.215.114.208:32180] logged in with entity id 1712 at ([world]-104.06962565246137, 63.0, 209.27243636611288)
-[18:16:49] [Server thread/INFO]: Tonnefer lost connection: Disconnected
-[18:16:49] [Server thread/INFO]: Tonnefer left the game
-[18:20:50] [Server thread/INFO]: Traxmania issued server command: /time set 0
-[18:20:50] [Server thread/INFO]: [Traxmania: Set the time to 0]
-[18:26:49] [User Authenticator #7/INFO]: UUID of player Tonnefer is 9af635f6-b37d-4c09-8adc-daadfa85e3cc
-[18:26:49] [Server thread/INFO]: Tonnefer[/80.215.114.208:32059] logged in with entity id 4247 at ([world]-105.45389104257617, 63.0, 209.05847383834197)
-[18:29:33] [Server thread/INFO]: Tonnefer lost connection: Disconnected
-[18:29:33] [Server thread/INFO]: Tonnefer left the game
-[18:34:33] [Server thread/INFO]: Traxmania issued server command: /stop
-[18:34:33] [Server thread/INFO]: [Traxmania: Stopping the server]
-[18:34:33] [Server thread/INFO]: Stopping server
-[18:34:33] [Server thread/INFO]: Saving players
-[18:34:33] [Server thread/INFO]: Traxmania lost connection: Server closed
-[18:34:33] [Server thread/INFO]: Traxmania left the game
-[18:34:33] [Server thread/INFO]: Saving worlds
-[18:34:33] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[18:34:33] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
-[18:34:33] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[19:01:48] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[19:01:48] [Server thread/INFO]: Preparing level "world"
+[19:01:48] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:01:48] [Server thread/INFO]: View Distance: 10
+[19:01:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:01:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:01:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:01:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:01:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:01:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:01:48] [Server thread/INFO]: Mob Spawn Range: 4
+[19:01:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Max TNT Explosions: 100
+[19:01:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:01:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:01:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:01:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:01:48] [Server thread/INFO]: Random Lighting Updates: false
+[19:01:48] [Server thread/INFO]: Structure Info Saving: true
+[19:01:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:01:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[19:01:48] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:01:48] [Server thread/INFO]: View Distance: 10
+[19:01:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:01:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:01:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:01:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:01:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:01:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:01:48] [Server thread/INFO]: Mob Spawn Range: 4
+[19:01:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Max TNT Explosions: 100
+[19:01:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:01:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:01:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:01:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:01:48] [Server thread/INFO]: Random Lighting Updates: false
+[19:01:48] [Server thread/INFO]: Structure Info Saving: true
+[19:01:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:01:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[19:01:48] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:01:48] [Server thread/INFO]: View Distance: 10
+[19:01:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:01:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:01:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:01:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:01:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:01:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:01:48] [Server thread/INFO]: Mob Spawn Range: 4
+[19:01:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:01:48] [Server thread/INFO]: Max TNT Explosions: 100
+[19:01:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:01:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:01:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:01:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:01:48] [Server thread/INFO]: Random Lighting Updates: false
+[19:01:48] [Server thread/INFO]: Structure Info Saving: true
+[19:01:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:01:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[19:01:49] [Server thread/INFO]: Preparing start region for level 0 (Seed: -2102299034037717084)
+[19:01:50] [Server thread/INFO]: Preparing spawn area: 49%
+[19:01:50] [Server thread/INFO]: Preparing start region for level 1 (Seed: -2102299034037717084)
+[19:01:51] [Server thread/INFO]: Preparing start region for level 2 (Seed: -2102299034037717084)
+[19:01:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:01:51] [Server thread/INFO]: Done (2,904s)! For help, type "help" or "?"
+[19:03:30] [User Authenticator #1/INFO]: UUID of player SpockPol is 305fbbcb-f408-406d-bb96-890e47ebf514
+[19:03:31] [Server thread/INFO]: SpockPol[/87.231.134.25:6653] logged in with entity id 586 at ([world]-104.30000001192093, 68.0, 200.36220884406947)
+[19:03:42] [User Authenticator #2/INFO]: UUID of player Traxmania is 94aaa575-af8a-4113-92f2-28406dc22b8a
+[19:03:42] [Server thread/INFO]: Traxmania[/77.150.151.108:58991] logged in with entity id 633 at ([world]-87.84318081815825, 63.0, 211.37922581796767)
+[19:04:01] [Server thread/INFO]: Traxmania has made the advancement [Sweet dreams]
+[19:04:21] [Server thread/INFO]: SpockPol issued server command: /gamemode 1
+[19:04:21] [Server thread/INFO]: [SpockPol: Set own game mode to Creative Mode]
+[19:04:31] [Server thread/INFO]: SpockPol issued server command: /gamemode 0
+[19:04:31] [Server thread/INFO]: [SpockPol: Set own game mode to Survival Mode]
+[19:04:48] [Server thread/INFO]: SpockPol issued server command: /gamemode 1
+[19:04:48] [Server thread/INFO]: [SpockPol: Set own game mode to Creative Mode]
+[19:38:00] [User Authenticator #3/INFO]: UUID of player Tonnefer is 9af635f6-b37d-4c09-8adc-daadfa85e3cc
+[19:38:00] [Server thread/INFO]: Tonnefer[/80.215.114.208:32203] logged in with entity id 15107 at ([world]-87.21800491324235, 63.875, 205.3432010522464)
+[19:44:38] [Server thread/INFO]: Traxmania lost connection: Disconnected
+[19:44:38] [Server thread/INFO]: Traxmania left the game
+[19:49:52] [Server thread/INFO]: Tonnefer lost connection: Disconnected
+[19:49:52] [Server thread/INFO]: Tonnefer left the game
+[19:50:08] [User Authenticator #4/INFO]: UUID of player Tonnefer is 9af635f6-b37d-4c09-8adc-daadfa85e3cc
+[19:50:09] [Server thread/INFO]: Tonnefer[/80.215.114.208:32209] logged in with entity id 17961 at ([world]-96.33085622793591, 58.101315209874755, 223.39833095553405)
+[20:12:54] [Server thread/INFO]: SpockPol has made the advancement [Suit Up]
+[20:13:59] [Server thread/INFO]: SpockPol issued server command: /gamemode 0
+[20:13:59] [Server thread/INFO]: [SpockPol: Set own game mode to Survival Mode]
+[20:14:03] [Server thread/INFO]: SpockPol issued server command: /gamemode 1
+[20:14:03] [Server thread/INFO]: [SpockPol: Set own game mode to Creative Mode]
+[20:18:18] [Server thread/INFO]: SpockPol issued server command: /gamemode 0
+[20:18:18] [Server thread/INFO]: [SpockPol: Set own game mode to Survival Mode]
+[20:21:33] [User Authenticator #5/INFO]: UUID of player Traxmania is 94aaa575-af8a-4113-92f2-28406dc22b8a
+[20:21:33] [Server thread/INFO]: Traxmania[/77.150.151.108:59600] logged in with entity id 24739 at ([world]-89.1032410501814, 63.0, 210.07007195316686)
+[20:26:45] [Server thread/INFO]: Traxmania issued server command: /gamemode 1
+[20:26:45] [Server thread/INFO]: [Traxmania: Set own game mode to Creative Mode]
+[20:27:11] [Server thread/INFO]: Traxmania issued server command: /gamemode 0
+[20:27:11] [Server thread/INFO]: [Traxmania: Set own game mode to Survival Mode]
+[20:29:06] [Server thread/INFO]: SpockPol has made the advancement [A Seedy Place]
+[20:31:07] [Server thread/INFO]: SpockPol has made the advancement [The Parrots and the Bats]
+[20:55:42] [Server thread/INFO]: SpockPol lost connection: Disconnected
+[20:55:42] [Server thread/INFO]: SpockPol left the game
+[20:55:48] [Server thread/INFO]: Tonnefer lost connection: Disconnected
+[20:55:48] [Server thread/INFO]: Tonnefer left the game
+[20:55:48] [Server thread/INFO]: Saving...
+[20:55:48] [Server thread/INFO]: Saved the world
+[20:56:29] [Server thread/INFO]: Traxmania issued server command: /gamemode 1
+[20:56:29] [Server thread/INFO]: [Traxmania: Set own game mode to Creative Mode]
